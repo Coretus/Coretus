@@ -1,4 +1,4 @@
-### Hola Soy Marcos Mas Conocido como Coretus , Actualmente Me dedico a Programar en NodeJS , TypeScript , Phyton , C# , Java
+### Hola Soy Marcos Mas Conocido como Coretus , Actualmente Me dedico a Programar en NodeJS y mas lenguajes
 
 
 
@@ -12,9 +12,6 @@
   <img align="left" alt="JavaScript" width="32px" src="https://api.iconify.design/mdi:language-javascript.svg?color=%2300fef4&height=32" />
   <img align="left" alt="HTML5" width="32px" src="https://api.iconify.design/mdi:language-html5.svg?color=%2300fef4&height=32" />
   <img align="left" alt="CSS3" width="32px" src="https://api.iconify.design/mdi:language-css3.svg?color=%2300fef4&height=32" />
-  <img align="left" alt="Typescript" width="26px" src="https://api.iconify.design/mdi:languaje:typescript.svg?color=%2300fef4&height=32" />
-  <img align="left" alt="Phyton" width="26px" src="https://api.iconify.design/mdi:languaje:phyton.svg?color=%2300fef4&height=32" />
-  <img align="left" alt="Java" width="26px" src="https://api.iconify.design/mdi:languaje:java.svg?color=%2300fef4&height=32" />
 </p>
 
 <br>
